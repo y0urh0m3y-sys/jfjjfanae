@@ -7,8 +7,8 @@ services:
     startCommand: python main.py
     envVars:
       - key: IG_USERNAME
-        value: pike.klaxon
+        value: jfjjfanae2026
       - key: IG_PASSWORD
-        value: "205259"
+        value: "muskan30#"
       - key: PORT
         value: 10000
