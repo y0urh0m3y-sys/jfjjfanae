@@ -19,8 +19,8 @@ logging.basicConfig(
 )
 
 # ----------------- Configuration -----------------
-USERNAME = os.getenv("IG_USERNAME", "pike.klaxon")
-PASSWORD = os.getenv("IG_PASSWORD", "205259")
+USERNAME = os.getenv("IG_USERNAME", "jfjjfanae2026")
+PASSWORD = os.getenv("IG_PASSWORD", "muskan30#")
 PORT = int(os.getenv("PORT", 10000))
 DB_PATH = "bot_state.db"
 SESSION_PATH = "session.json"
